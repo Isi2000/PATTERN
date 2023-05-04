@@ -1,0 +1,2 @@
+# PATTERN
+Repository for PATTERN-RECOGNITION exam 
